@@ -11,13 +11,17 @@
 - Adding Jiggle Physics to the hair, tail, ect.
 
 # Credits!
-- The Gooberator - Coding, Model Editor, and Testing. Support Gooberator here - https://www.youtube.com/@thegooberator
+- The Gooberator - Coder, model editor, and tester. Support Gooberator here - https://www.youtube.com/@thegooberator
 ![Images](https://github.com/LunarTheHellhound/LoonaPlayerModel/blob/main/TheGooberator-PFP-(LOW).png?raw=true)
-- Lunar The Hellhound - Images, Testing, and Mod Page Manager. Support Lunar here - https://www.youtube.com/@Lunar-The-Hellhound
+- Lunar The Hellhound - Graphic designer, mod page manager, and tester. Support Lunar here - https://www.youtube.com/@Lunar-The-Hellhound
 ![Images](https://github.com/LunarTheHellhound/LoonaPlayerModel/blob/main/Lunar%20PFP%20Normal-(LOW).png?raw=true)
 - Original model made by - AeridicCore - Go and support their work here - https://www.patreon.com/aeridiccore
 ![Images](https://github.com/LunarTheHellhound/LoonaPlayerModel/blob/main/Model%20maker-PFP.png?raw=true)
-### Note: We modified the model from NSFW to a SFW with added support for Lethal Company. Removing any ability to pull the model for personal use. We ask that you go and support the original model through the links above. As we don't take any credit for the model, we just imported her into Lethal Company.
+### Note: We modified the model from NSFW to a SFW with added support for Lethal Company. Removing any ability to pull the model for personal use. We ask that you go and support the original model through the link above. As we don't take any credit for the model, we just imported her into Lethal Company.
+![Images](https://github.com/LunarTheHellhound/LoonaPlayerModel/blob/main/Loona%20Model%20SFW.png?raw=true)
+- The image above is what you will get from ripping it from our .dll. You won't have any of the model's features other than combined mesh and base bones. Like stated above, we removed any form of NSFW from the model. From the textures to the vertices. If you rip the model, you are getting a heavily watered down version of the model.
+- The image below is what you get if you pay for the model! You will get everything from all of the rings, all the way down to the NSFW. Just another reason to buy the model and not to rip it from the mod. If you do buy the model because of this mod, thank you. As it means a lot to us (ProjectBuddies) and even more to AeridicCore.
+![Images](https://github.com/LunarTheHellhound/LoonaPlayerModel/blob/main/Loona%20Model%20NSFW.png?raw=true)
 
 # Side note.
 ### Look at the wiki for updates in progress!
@@ -35,4 +39,6 @@
 - v1.2.1 - Add stuff to wiki and Known Bugs.
 - v1.2.2 - Fixed Loona's hands!
 - v1.2.3 - Updated README.
+- v1.2.4 - Updated README again... We added Images!
+- v1.2.5 - Fixed Images (because Lunar is goofy)
 - v1.3.0 - (Coming soon!) - Adding Jiggle Physics.
